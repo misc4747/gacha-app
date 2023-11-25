@@ -1,0 +1,4 @@
+{
+    "要素A": { "probability": 0.7, "add_text": "hoge" },
+    "要素B": { "probability": 0.3, "add_text": "hoge" }
+}
