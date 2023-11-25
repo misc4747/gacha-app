@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gacha-app/static/css/main.8cea135a.css",
+    "main.js": "/gacha-app/static/js/main.ee6990c6.js",
+    "static/js/787.7a0fd3c4.chunk.js": "/gacha-app/static/js/787.7a0fd3c4.chunk.js",
+    "index.html": "/gacha-app/index.html",
+    "main.8cea135a.css.map": "/gacha-app/static/css/main.8cea135a.css.map",
+    "main.ee6990c6.js.map": "/gacha-app/static/js/main.ee6990c6.js.map",
+    "787.7a0fd3c4.chunk.js.map": "/gacha-app/static/js/787.7a0fd3c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cea135a.css",
+    "static/js/main.ee6990c6.js"
+  ]
+}
